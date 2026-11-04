@@ -1,7 +1,6 @@
 # Wedding RSVP — Jéssica & Matheus
 
-Site de casamento com confirmação de presença e painel de organização, desenvolvido por **Flavia Juchen** como presente de casamento e projeto de portfólio.
-
+Site de casamento com confirmação de presença e painel de organização, desenvolvido por **Flavia Juchen**
 [Visitar o site em produção](https://jessicaematheus.vercel.app/)
 
 ## Funcionalidades
