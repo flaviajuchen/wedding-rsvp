@@ -1,0 +1,16 @@
+node_modules/
+dist/
+.next/
+.vinext/
+.wrangler/
+.sites-runtime/
+.env*
+!.env.example
+.dev.vars*
+*.sqlite*
+*.db
+*.csv
+*.log
+*.tsbuildinfo
+outputs/
+.DS_Store
